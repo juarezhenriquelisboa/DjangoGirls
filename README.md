@@ -1,5 +1,7 @@
-# Blog em DJANGO realizado com base no tutorial das djangogirls
+# DJANGO blog
 
-Você pode encontrar o tutorial que seguinte aqui:
+I realized this project with the DjangoGirls tutorial, you can find this here:
 
 https://dgportoalegre.gitbook.io/djangogirls/
+
+
